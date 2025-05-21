@@ -12,7 +12,7 @@ We build a possibility to change the color of the APs based on device model. Use
 Tool is provided as is and no adjustments promised. Use at your own risk!
 
 ### Compatibility
-Tested on Catalyst Center versions:
+Tested on Catalyst Center version:
 - 2.3.7.6
 - 2.3.7.9
 
